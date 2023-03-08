@@ -62,9 +62,9 @@
     }
 
     .institucional__video {
-        align-self: center;
+        align-self: flex-end;
 
-        width: 60%;
+        width: 375px;
     }
 
     .institucional__contacto-email {
